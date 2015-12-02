@@ -17,3 +17,5 @@ Making a custom error and raising it
 AssociationTypeMismatch
 
 This lesson should include a lab that tests the example from the readme. they have to build association type checking on artist.add_song(song) and song.artist =
+
+<a href='https://learn.co/lessons/ruby-custom-errors' data-visibility='hidden'>View this lesson on Learn.co</a>
